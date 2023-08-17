@@ -6,7 +6,7 @@
          IG: Mikayel Gyogchyan
          @: gyogchyanmikayel@gmail.com
 
-I'm always open to hearing about new and exciting ideas and opportunities, so please don't hesitate to reach out to me.
+I maintain an unwavering enthusiasm for embracing fresh and captivating ideas, as well as seizing exciting opportunities. Your outreach is warmly welcomed and encouraged, so please don't hesitate to get in touch with me at your convenience.
 <!---
 MikayelGyogchyan/MikayelGyogchyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
