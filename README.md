@@ -1,4 +1,4 @@
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Mikayel Gyogchyan </h1>
+<h1 style="color: #44AEFB;"> Mikayel Gyogchyan </h1>
 
 ![github_cover_banner](https://media.licdn.com/dms/image/D4D16AQFxtP3AP7s7wQ/profile-displaybackgroundimage-shrink_350_1400/0/1687114113441?e=1705536000&v=beta&t=ENbs2SfX_dyGBSaMoHoD9Eo6qy9tf_uVtd70meBBO-Y)
 
