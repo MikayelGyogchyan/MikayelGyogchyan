@@ -1,6 +1,10 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Mikayel Gyogchyan </h1>
 
-![github_cover_banner](![Alt text](2023-06-18_20-47-24.png))
+<div align="center" style="display:block;">
+    <img alt="Programming Languages" src="2023-06-18_20-47-24-1.png"/> 
+</div>
+<br>
+
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a Full Stack JavaScript developer, MERN stack with Mongo, Express, Node and version control (GIT) and React along with their associated third-party libraries.
