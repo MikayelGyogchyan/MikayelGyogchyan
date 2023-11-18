@@ -9,14 +9,13 @@
     I maintain an unwavering enthusiasm for embracing fresh and captivating ideas, as well as seizing exciting opportunities. Your outreach is warmly welcomed and even encouraged, so please don't hesitate to get in touch with me at your convenience.
     
 <br>
-<br>
 <div align="center">
 
 [Email Me](gyogchyanmikayel@gmail.com)
 
 </div>
 </p>   
-<div class="footer" align="center" style="margin:15px;">
+<div class="footer" align="center">
     <a href="gyogchyanmikayel@gmail.com" target="_blank">
         <img style="margin:0 0px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
@@ -29,7 +28,7 @@
 </p>   
 <div class="footer" align="center" style="margin:15px;">
     <a href="https://www.linkedin.com/in/mikayel-gyogchyan-831089237/" target="_blank">
-        <img style="margin:0 0px 10px 0;" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="gmail" width="40px"/>
+        <img src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" alt="gmail" width="40px"/>
     </a>
 </div>
 
