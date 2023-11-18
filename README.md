@@ -1,9 +1,6 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Mikayel Gyogchyan </h1>
 
-<div align="center" style="display:block;">
-    <img alt="Mikayel Gyogchyan" src="./2023-06-18_20-47-24.png"/> 
-</div>
-<br>
+![Alt text](MikayelProfile.png)
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
