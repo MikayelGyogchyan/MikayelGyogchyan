@@ -108,6 +108,3 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MikayelGyogchyan&show_icons=true&theme=algolia&border_radius=20)
 
-## Watch the snake eating my Contributions
-
-![snake gif](https://github.com/MikayelGyogchyan/MikayelGyogchyan/blob/output/github-contribution-grid-snake.svg)
