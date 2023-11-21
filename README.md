@@ -4,7 +4,7 @@
 
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
-    I am a Full Stack JavaScript developer, MERN stack with Mongo, Express, Node and version control (GIT) and React along with their associated third-party libraries.
+    I am a Full Stack JavaScript developer, MERN stack with Mongo, Express, Node and version control (GIT) and React along with its associated third-party libraries.
     I have skills in UI/UX experience, creating visually appealing graphics and designing illustrations, logos, images, etc.
     I maintain an unwavering enthusiasm for embracing fresh and captivating ideas, as well as seizing exciting opportunities. Your outreach is warmly welcomed and even encouraged, so please don't hesitate to get in touch with me at your convenience.
     
